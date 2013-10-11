@@ -19,7 +19,6 @@ You can also customize the banner and edit the background or typography of text.
 
 Working demos are available **[here](http://plugins.yithemes.com/yith-topbar-countdown/)**
 
-
 Full documentation is available [here](http://yithemes.com/docs-plugins/yith_topbar_countdown/).
 
 
