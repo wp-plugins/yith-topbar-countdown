@@ -11,7 +11,7 @@
  *
  * @author Your Inspiration Themes
  * @package YITH Topbar Countdown
- * @version 1.0.0
+ * @version 1.0.1
  */
 /*  Copyright 2013  Your Inspiration Themes  (email : plugins@yithemes.com)
 This program is free software; you can redistribute it and/or modify
@@ -36,10 +36,7 @@ if (!defined('ABSPATH')) {
 /* Include common functions */
 
 if (!defined('YITH_FUNCTIONS')) {
-
-    require_once('yit-common/google_fonts.php');
     require_once('yit-common/yit-functions.php');
-    require_once('yit-common/yith-panel.php');
 }
 
 load_plugin_textdomain('yit', false, dirname(plugin_basename(__FILE__)) . '/languages/');
