@@ -1,7 +1,7 @@
 === YITH Topbar Countdown ===
 
 Contributors: yithemes
-Tags: countdown, topbar, themes, yit
+Tags: countdown, topbar, themes, yit, banner, topbar banner, countdown, sales countdown, yithemes, yith
 Requires at least: 3.5.1
 Tested up to: 4.1
 Stable tag: 1.0.1
@@ -17,9 +17,9 @@ If you need to launch an offer or a promotions on your website, YITH Topbar Coun
 With it you can add a pretty banner in the top of the screen with a simple countdown of the date of the offer you are launching.
 You can also customize the banner and edit the background or typography of text.
 
-Working demos are available **[here](http://plugins.yithemes.com/yith-topbar-countdown/)**
+Working demos are available **[here](http://plugins.yithemes.com/yith-topbar-countdown)**
 
-Full documentation is available [here](http://yithemes.com/docs-plugins/yith_topbar_countdown/).
+Full documentation is available [here](http://plugins.yithemes.com/yith-topbar-countdown).
 
 
 = Installation =
@@ -33,7 +33,7 @@ Once you have installed the plugin, you just need to activate the plugin in orde
 
 = Developer =
 
-Are you a developer? Want to customize the templates or the style of the plugin? Read on the [documentation](http://yithemes.com/docs-plugins/yith_topbar_countdown/) and discover how to do that.
+Are you a developer? Want to customize the templates or the style of the plugin? Read on the [documentation](http://plugins.yithemes.com/yith-topbar-countdown) and discover how to do that.
 
 = Support =
 
@@ -70,9 +70,13 @@ No, you can deactivate the topbar countdown even if the plugin is active.
 
 == Changelog ==
 
+= 1.0.2 =
+
+* Updated: Plugin documentation
+
 = 1.0.1 =
 
-* Update: Core Framework
+* Updated: Core Framework
 
 = 1.0.0 =
 
@@ -93,7 +97,7 @@ If you have created your own language pack, or have an update for an existing on
 
 == Documentation ==
 
-Full documentation is available [here](http://yithemes.com/docs-plugins/yith_topbar_countdown/).
+Full documentation is available [here](http://plugins.yithemes.com/yith-topbar-countdown).
 
 == Upgrade notice ==
 

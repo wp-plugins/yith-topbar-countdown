@@ -31,7 +31,7 @@ if (!class_exists('YITH_Topbar_Countdown')) {
          * @since 1.0.0
          */
 
-        public $version = '1.0.1';
+        public $version = '1.0.2';
 
         /**
          * Plugin object

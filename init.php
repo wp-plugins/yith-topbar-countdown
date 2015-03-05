@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: YITH Topbar Countdown
- * Plugin URI: http://yithemes.com/
+ * Plugin URI: http://yithemes.com/themes/plugins/yith-topbar-countdown
  * Description: YITH Topbar Countdown allows you to add a banner countdown in your header.
- * Version: 1.0.0
- * Author: Your Inspiration Themes
+ * Version: 1.0.2
+ * Author: Yithemes
  * Author URI: http://yithemes.com/
  * Text Domain: yit
  * Domain Path: /languages/
