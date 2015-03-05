@@ -70,7 +70,7 @@ if (!class_exists('YITH_Tcountdown_Admin')) {
 
         public $banner_url = 'http://cdn.yithemes.com/plugins/yith_maintenance_mode.php?url';
         public $banner_img = 'http://cdn.yithemes.com/plugins/yith_maintenance_mode.php';
-        public $doc_url = 'http://plugins.yithemes.com/yith-topbar-countdown';
+        public $doc_url = 'http://yithemes.com/docs-plugins/yith-topbar-countdown/';
 
         /**
          * Constructor

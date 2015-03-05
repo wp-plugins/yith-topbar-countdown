@@ -19,7 +19,7 @@ You can also customize the banner and edit the background or typography of text.
 
 Working demos are available **[here](http://plugins.yithemes.com/yith-topbar-countdown)**
 
-Full documentation is available [here](http://plugins.yithemes.com/yith-topbar-countdown).
+Full documentation is available [here](http://yithemes.com/docs-plugins/yith-topbar-countdown/).
 
 
 = Installation =
@@ -33,7 +33,7 @@ Once you have installed the plugin, you just need to activate the plugin in orde
 
 = Developer =
 
-Are you a developer? Want to customize the templates or the style of the plugin? Read on the [documentation](http://plugins.yithemes.com/yith-topbar-countdown) and discover how to do that.
+Are you a developer? Want to customize the templates or the style of the plugin? Read on the [documentation](http://yithemes.com/docs-plugins/yith-topbar-countdown/) and discover how to do that.
 
 = Support =
 
